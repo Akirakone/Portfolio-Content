@@ -13,3 +13,10 @@
 
 }
 
+nav{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 2px;
+}
+
+
